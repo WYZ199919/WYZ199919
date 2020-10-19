@@ -1,0 +1,4 @@
+#! /bin/bash
+#Dispiay a line
+
+echo "hello world!"
